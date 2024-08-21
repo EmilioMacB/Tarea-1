@@ -1,0 +1,10 @@
+body {  
+    background-color: red; /* Cambia el color de fondo a rojo */  
+    text-align: center; /* Centra el texto y otros elementos en el cuerpo */  
+}  
+
+* {  
+    margin: 0; /* Elimina márgenes por defecto */  
+    padding: 0; /* Elimina relleno por defecto */  
+}  
+
